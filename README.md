@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Krishna
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Automation 
+- 📫 reachme on krishnatalikkal75@gmail.com
